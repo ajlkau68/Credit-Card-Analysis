@@ -243,4 +243,4 @@ Contributions to this project are welcome! Please open an issue to discuss any m
 ## Screenshots
 
 **Dashboard Overview**  
-![Product and Category Analysis](https://github.com/ajlkau68/Ad-Hoc-Insights/blob/main/images/Product_analysis.png)
+![Dashboard Overview](https://github.com/ajlkau68/Credit-Card-Analysis/blob/main/images/Overview.png)
