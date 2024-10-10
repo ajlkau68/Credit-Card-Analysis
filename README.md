@@ -13,6 +13,7 @@
 8. [Visualization](#visualization)
 9. [Conclusion](#conclusion)
 10. [Contributing](#contributing)
+11. [Screenshots](#screenshots)
 
 ---
 
